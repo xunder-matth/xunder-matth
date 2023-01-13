@@ -1,3 +1,3 @@
 # Hi 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xunder-matth&count_private=true&show_icons=true&theme=light)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xunder-matth&theme=material&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
